@@ -4,9 +4,9 @@ int main()
 {
     char str[5];
 
-    str[0] = 'S';
-    str[1] = 'O';
-    str[2] = 'D';
+    str[0] = 'A';
+    str[1] = 'W';
+    str[2] = 'S';
     str[3] = '\n';
     
     printf("文字列strは\"%s\"です。\n", str);
